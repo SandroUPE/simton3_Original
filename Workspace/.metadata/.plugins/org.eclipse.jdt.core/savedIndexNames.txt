@@ -1,0 +1,2 @@
+INDEX VERSION 1.132+C:\Users\sandr\OneDrive\Documentos\Pasta Simulador SIMTON\simton3_Original\Workspace\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index

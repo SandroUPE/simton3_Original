@@ -1,0 +1,10 @@
+ago. 22, 2023 6:58:50 PM br.upe.jol.problems.simton.SimtonProblem evaluate
+INFORMAÇÕES: Avalia��o (0,07159221, 6.472,22723409). Tempo de avalia��o do indiv�duo (1) = 1295.
+ago. 22, 2023 6:58:50 PM br.upe.jol.problems.simton.SimtonProblem evaluate
+INFORMAÇÕES: Avalia��o (0,10397172, 6.472,22723409). Tempo de avalia��o do indiv�duo (2) = 279.
+ago. 22, 2023 6:58:51 PM br.upe.jol.problems.simton.SimtonProblem evaluate
+INFORMAÇÕES: Avalia��o (0,07796663, 6.472,22723409). Tempo de avalia��o do indiv�duo (3) = 366.
+ago. 22, 2023 6:58:51 PM br.upe.jol.problems.simton.SimtonProblem evaluate
+INFORMAÇÕES: Avalia��o (0,08851124, 6.472,22723409). Tempo de avalia��o do indiv�duo (4) = 334.
+ago. 22, 2023 6:58:51 PM br.upe.jol.problems.simton.SimtonProblem evaluate
+INFORMAÇÕES: Avalia��o (0,08815233, 6.472,22723409). Tempo de avalia��o do indiv�duo (5) = 271.
