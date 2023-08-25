@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 /**
  * @author Danilo
- * 
+ * @author Sandro
  * @param <T>
  */
 public abstract class Problem<T> implements Serializable {
@@ -53,8 +53,8 @@ public abstract class Problem<T> implements Serializable {
 	}
 
 	/**
-	 * @return Valor diferencial para cálculo do hypervolume, quando uma região
-	 *         é conhecida por ser inalcançável
+	 * @return Valor diferencial para cï¿½lculo do hypervolume, quando uma regiï¿½o
+	 *         ï¿½ conhecida por ser inalcanï¿½ï¿½vel
 	 */
 	public double getHypervolumeDif() {
 		return 0;
@@ -139,7 +139,7 @@ public abstract class Problem<T> implements Serializable {
 	}
 
 	/**
-	 * Método acessor para obter o valor do atributo problemName.
+	 * Mï¿½todo acessor para obter o valor do atributo problemName.
 	 * 
 	 * @return O valor de problemName
 	 */
@@ -158,7 +158,7 @@ public abstract class Problem<T> implements Serializable {
 	}
 
 	/**
-	 * Método acessor para obter o valor do atributo lowerLimit.
+	 * Mï¿½todo acessor para obter o valor do atributo lowerLimit.
 	 * 
 	 * @return O valor de lowerLimit
 	 */
@@ -177,7 +177,7 @@ public abstract class Problem<T> implements Serializable {
 	}
 
 	/**
-	 * Método acessor para obter o valor do atributo upperLimit.
+	 * Mï¿½todo acessor para obter o valor do atributo upperLimit.
 	 * 
 	 * @return O valor de upperLimit
 	 */
@@ -196,7 +196,7 @@ public abstract class Problem<T> implements Serializable {
 	}
 
 	/**
-	 * Método acessor para obter o valor do atributo lowerLimitObjective.
+	 * Mï¿½todo acessor para obter o valor do atributo lowerLimitObjective.
 	 * 
 	 * @return O valor de lowerLimitObjective
 	 */
@@ -205,7 +205,7 @@ public abstract class Problem<T> implements Serializable {
 	}
 
 	/**
-	 * Método acessor para obter o valor do atributo upperLimitObjective.
+	 * Mï¿½todo acessor para obter o valor do atributo upperLimitObjective.
 	 * 
 	 * @return O valor de upperLimitObjective
 	 */
@@ -214,7 +214,7 @@ public abstract class Problem<T> implements Serializable {
 	}
 
 	/**
-	 * Método acessor para obter o valor do atributo length.
+	 * Mï¿½todo acessor para obter o valor do atributo length.
 	 * 
 	 * @return O valor de length
 	 */
